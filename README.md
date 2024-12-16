@@ -59,8 +59,11 @@
 ***
 ### 1.2Github上的学习资料网站
 1.白天速通Python挑战，你一定喜欢！[Python-100-day](https://github.com/jackfrued/Python-100-Days) 
+
 2.更适合新手的教学网站：[Full speed Python](https://github.com/joaoventura/full-speed-python) 
+
 3.《Python 数据科学手册》的代码和示例，涵盖 NumPy、Pandas、Matplotlib 和机器学习:[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
+
 4.想学习爬虫的看这里！！！：[python爬虫学习路线](https://github.com/facert/python-spider) 
 ## C语言
 ## Go语言

@@ -1,5 +1,5 @@
 # 学习资料索引
-本项目重点是为了创建出来计算机学习的索引，目的是让中国学生在母语的条件下进行良好的搜索！
+本项目重点在于将我觉得不错的学习资源进行系统的汇总，重点还是在于在GitHub内部进行搜索，发现非中文索引能找到的非常不错的学习资料。我们就是其中的桥梁!
 ## 先用好索引！
 我们在进行学习的过程中，要利用Google索引来进行各种学习资料的搜索，所以我们先给出Google使用的推荐文章（本索引教程和python1.1的内容均出自[PythonShare](https://github.com/Yixiaohan/codeparkshare))
 ***
@@ -58,14 +58,29 @@
 2.  [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 ***
 ### 1.2Github上的学习资料网站
-1.白天速通Python挑战，你一定喜欢！[Python-100-day](https://github.com/jackfrued/Python-100-Days) 
+1. 白天速通Python挑战，你一定喜欢！[Python-100-day](https://github.com/jackfrued/Python-100-Days) 
 
-2.更适合新手的教学网站：[Full speed Python](https://github.com/joaoventura/full-speed-python) 
+2. 更适合新手的教学网站：[Full speed Python](https://github.com/joaoventura/full-speed-python) 
 
-3.《Python 数据科学手册》的代码和示例，涵盖 NumPy、Pandas、Matplotlib 和机器学习:[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
+3. 《Python 数据科学手册》的代码和示例，涵盖 NumPy、Pandas、Matplotlib 和机器学习:[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) 
 
 4.想学习爬虫的看这里！！！：[python爬虫学习路线](https://github.com/facert/python-spider) 
-## C语言
+## C/C++
+### C/C++在Github上面的推荐网站
+1. C语言相关资源的集合，包含学习教程、代码库、工具和开源项目：[Awesome C](https://github.com/kozross/awesome-c)
+
+2. C 语言学习笔记，包括 C 的基础知识和常用技巧：[C Programming Notes](https://github.com/BartMassey/c-programming-notes)
+
+4. C/C++ 图形编程框架，适合 2D 游戏开发：[SDL2](https://github.com/libsdl-org/SDL)
+3. C++ 最佳实践集合，涵盖代码风格、性能优化和设计模式：[cpp-best-practices](https://github.com/learncpp)
 ## Go语言
+### Go语言在Github上面的推荐网站
+1. 通过示例学习 Go 语言的基础和常见用法[Go by Example](https://github.com/mmcgrana/gobyexample)
+
+2. 官方推出的 Go 语言交互式教程[A Tour of Go](https://github.com/golang/tour) 
+
+3. 通过测试驱动开发（TDD）学习 Go 语言[Learn Go with Tests](https://github.com/quii/learn-go-with-tests)
+
+4. Go 语言速查表，整理了 Go 的语法和常用操作[Go Cheatsheet](https://github.com/a8m/go-lang-cheat-sheet)
 ## Java
 ## Javascript

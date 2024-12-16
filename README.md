@@ -82,3 +82,6 @@
 3. 通过测试驱动开发（TDD）学习 Go 语言[Learn Go with Tests](https://github.com/quii/learn-go-with-tests)
 
 4. Go 语言速查表，整理了 Go 的语法和常用操作[Go Cheatsheet](https://github.com/a8m/go-lang-cheat-sheet)
+
+# 总结
+我在开源社区学习的过程中，总是因为英文索引感到烦恼，如果大家有非常不错的学习资源没有上榜的话，欢迎与我联系！我会给予大家反馈！
